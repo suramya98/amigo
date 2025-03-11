@@ -5,3 +5,5 @@ Good Evening
 
 Signup
 Login
+
+Log Out
