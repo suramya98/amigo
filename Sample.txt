@@ -7,3 +7,4 @@ Signup
 Login
 
 Log Out
+Added a new line in the file
